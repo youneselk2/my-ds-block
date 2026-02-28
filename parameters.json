@@ -5,12 +5,5 @@
         "name": "Impedance Phase Extractor",
         "shortDescription": "Extracts impedance magnitude and phase angle from V and I signals"
     },
-    "parameters": [
-        {
-            "name": "Signal frequency",
-            "type": "int",
-            "value": 618,
-            "help": "Frequency of the excitation sine wave in Hz"
-        }
-    ]
+    "parameters": []
 }
